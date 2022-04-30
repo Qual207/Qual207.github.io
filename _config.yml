@@ -19,7 +19,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "What We Do"
+      type: "services"
     values:
       layout: "service"
   - scope:
