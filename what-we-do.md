@@ -1,6 +1,6 @@
 ---
 title: What We Do
-layout: services
+layout: default
 description: What We Do
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
