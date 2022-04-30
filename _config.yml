@@ -12,7 +12,7 @@ logo:
 
 collections:
   services:
-    output: true
+    output: false
   team:
     output: true
 
