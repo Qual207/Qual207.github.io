@@ -1,6 +1,6 @@
 ---
 title: What We Do
-layout: default
+layout: page
 description: What We Do
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
