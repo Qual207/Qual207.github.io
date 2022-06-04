@@ -1,7 +1,7 @@
 ---
-title: What We Do
+title: 2022 Summer OYMC
 layout: page
-description: What We Do
+description: 2022 Summer OYMC
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
