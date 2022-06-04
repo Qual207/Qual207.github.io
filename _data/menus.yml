@@ -1,6 +1,6 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "2022 Summer OYMC"
+    url: "/2022-summer-oymc/"
     weight: 2
   - name: "Team"
     url: "/team/"
