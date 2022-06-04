@@ -1,6 +1,6 @@
 main:
   - name: "2022 Summer OYMC"
-    url: "/2022-summer-oymc/"
+    url: "/2022_summer_oymc/"
     weight: 2
   - name: "Team"
     url: "/team/"
