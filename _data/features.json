@@ -1,9 +1,9 @@
 [
   {
     "title": "Mission",
-    "description": "Our Mission is to help young students find and pursue their love of mathematics while competing against other kids with similar interests.",
+    "description": "Our Mission is to help young students find and pursue their love of mathematics through competition.",
     "image": {
-      "url": "images/features/reshot-icon-problem-solving-UJT7SARGQ3.svg",
+      "url": "reshot-icon-ranking-US47XC28PA.svg",
       "width": 90,
       "height": 90
     }
@@ -12,7 +12,7 @@
     "title": "Cost Free",
     "description": "The OYMC is completely free with no fee needed so that money doesn't become a barrier to competing.",
     "image": {
-      "url": "images/features/reshot-icon-team-chatting-PAJQY6CS5H.svg",
+      "url": "images/features/reshot-icon-no-money-MTGPUBN2WA.svg",
       "width": 90,
       "height": 90
     }
@@ -21,7 +21,7 @@
     "title": "Location",
     "description": "The OYMC is held online, thus allowing students from all around the world to participate.",
     "image": {
-      "url": "images/features/reshot-icon-leaderboard-rank-XAZF53BEQV.svg",
+      "url": "images/features/reshot-icon-online-education-NLKJ27SZGH.svg",
       "width": 90,
       "height": 90
     }
