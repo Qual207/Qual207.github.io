@@ -1,27 +1,27 @@
 [
   {
-    "title": "Mission"
-    "description": "Our Mission is to help young aspiring Mathletes find and pursue their love of mathematics through fun competitions against other kids with similar interests.",
+    "title": "Challenging Problems",
+    "description": "We provide interesting and challenging problems that will feed your interest in mathematics.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/reshot-icon-problem-solving-UJT7SARGQ3.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Free",
-    "description": "The OYMC was designed so that students wouldn't have to face any barriers in order to attend, specifically money issues. The contest is free with no fee needed.",
+    "title": "Team Bonding",
+    "description": "Great time to meet people with similar interests and make new friends.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/reshot-icon-team-chatting-PAJQY6CS5H.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Location",
-    "description": "To ensure that all kids could participate in the competition albeit their location, the OYMC is held online and students across various countries participate and compete.",
+    "title": "Fun",
+    "description": "Have fun applying mathematics in math competitions featuring interesting and challenging problems.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/reshot-icon-leaderboard-rank-XAZF53BEQV.svg",
       "width": 80,
       "height": 80
     }
