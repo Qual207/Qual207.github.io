@@ -1,29 +1,29 @@
 [
   {
-    "title": "Challenging Problems",
-    "description": "We provide interesting and challenging problems that will feed your interest in mathematics.",
+    "title": "Mission",
+    "description": "Our Mission is to help young students find and pursue their love of mathematics while competing against other kids with similar interests.",
     "image": {
       "url": "images/features/reshot-icon-problem-solving-UJT7SARGQ3.svg",
-      "width": 80,
-      "height": 80
+      "width": 90,
+      "height": 90
     }
   },
   {
-    "title": "Team Bonding",
-    "description": "Great time to meet people with similar interests and make new friends.",
+    "title": "Cost Free",
+    "description": "The OYMC is completely free with no fee needed so that money doesn't become a barrier to competing.",
     "image": {
       "url": "images/features/reshot-icon-team-chatting-PAJQY6CS5H.svg",
-      "width": 80,
-      "height": 80
+      "width": 90,
+      "height": 90
     }
   },
   {
-    "title": "Fun",
-    "description": "Have fun applying mathematics in math competitions featuring interesting and challenging problems.",
+    "title": "Location",
+    "description": "The OYMC is held online, thus allowing students from all around the world to participate.",
     "image": {
       "url": "images/features/reshot-icon-leaderboard-rank-XAZF53BEQV.svg",
-      "width": 80,
-      "height": 80
+      "width": 90,
+      "height": 90
     }
   }
 ]
