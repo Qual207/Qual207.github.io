@@ -3,10 +3,10 @@ permalink: pretty
 title: 'OYMC'
 
 logo:
-  mobile: "images/logo/logo.svg"
+  mobile: "images/logo/OYMC-logo.png"
   mobile_height: "64px"
   mobile_width: "64px"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/logo/OYMC-logo.png"
   desktop_height: "64px"
   desktop_width: "64px"
 
