@@ -2,19 +2,19 @@
 ---
 
 // Colors
-$primary: #437677;
-$primary-dark: #387576;
-$secondary: #97bcba;
+$primary: #e5261f;
+$primary-dark: #a01b16;
+$secondary: #f88379;
 $black: #2f2f41;
 $white: #ffffff;
-$white-offset: #cfe2f3;
+$white-offset: #fff6f8;
 $steel: #5c5a5a;
 
 // Links
 $link-color: $primary;
 $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
-$link-hover-decoration: none;
+$link-hover-decoration: underline;
 
 // Fonts
 $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
@@ -30,7 +30,7 @@ $sub-footer-text-color: $white;
 @import "bootstrap-variables";
 @import "bootstrap/bootstrap-reboot";
 @import "bootstrap/bootstrap-grid";
-@import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
+// @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
 
 // Libraries
 @import "libraries/hamburgers/hamburgers";
