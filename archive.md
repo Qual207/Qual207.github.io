@@ -1,6 +1,6 @@
 ---
 title: Archive
-layout: page
+layout: archive
 description: Past Tests and Solutions
 bodyClass: page-about
 ---
