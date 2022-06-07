@@ -1,6 +1,6 @@
 ---
 title: 2022 Summer OYMC
-layout: page
+layout: 2022_summer_oymc
 description: 2022 Summer OYMC
 intro_image: "images/illustrations/undraw_problem_solving_re_4gq3.svg"
 intro_image_absolute: true
