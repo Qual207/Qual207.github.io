@@ -3,7 +3,7 @@ title: "Jason Shaye"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 jobtitle: "Founder, testwriter, grader, organizer, marketing, and graphic designer."
-weight: 7
+weight: 1
 layout: team
 ---
 
