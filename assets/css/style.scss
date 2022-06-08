@@ -14,11 +14,11 @@ $steel: #5c5a5a;
 $link-color: $primary;
 $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
-$link-hover-decoration: underline;
+$link-hover-decoration: none;
 
 // Fonts
-$font-family-base: "Ubuntu", Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family-base: Verdana, Arial, Helvetica, sans-serif, -apple-system;
+$font-family-heading: Georgia, serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
