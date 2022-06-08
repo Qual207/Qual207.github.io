@@ -59,4 +59,10 @@ bodyClass: "page-teams"
         </div>
         {% endfor %}
     </div>
+    <h2> Other contributors </h2>
+    <ul>
+        {% for person in site.other_team %}
+        <li> {{ person.name }} - {{ person.role}} </li>
+        {% endfor %}
+    </ul>
 </div>
