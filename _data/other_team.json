@@ -1,22 +1,30 @@
 [
   {
-    "name": "SAMPLE NAME",
+    "name": "David Shen",
+    "role": "Web Developer"
+  },
+  {
+    "name": "v4913",
     "role": "Testsolver"
   },
   {
-    "name": "SAMPLE NAME",
+    "name": "ezpotd",
     "role": "Testsolver"
   },
   {
-    "name": "SAMPLE NAME",
+    "name": "Rusczyk",
     "role": "Testsolver"
   },
   {
-    "name": "SAMPLE NAME",
+    "name": "MathPirate101",
     "role": "Testsolver"
   },
   {
-    "name": "SAMPLE NAME",
+    "name": "scrabbler94",
     "role": "Testsolver"
-  }
+  },
+  {
+    "name": "OlympusHero",
+    "role": "Testsolver"
+  } 
 ]
