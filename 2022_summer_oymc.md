@@ -2,7 +2,7 @@
 title: 2022 Summer OYMC
 layout: 2022_summer_oymc
 description: 
-intro_image: "images/illustrations/undraw_mathematics_-4-otb.svg"
+intro_image: "images/logo/OYMC-Logo.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
