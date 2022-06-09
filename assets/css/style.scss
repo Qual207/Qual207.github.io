@@ -17,9 +17,9 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: none;
 
 // Fonts
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 $font-family-base: 'Open Sans', sans-serif, -apple-system;
-$font-family-heading: Josefin Sans, serif, -apple-system;
+$font-family-heading: 'Josefin Sans', sans-serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
