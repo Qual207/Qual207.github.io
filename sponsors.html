@@ -19,10 +19,11 @@ bodyClass: page-sponsors-list
 
 <div class="container pb-6">
   <div class="row">
-    {% for sponsors in site.sponsors %}
+    {% for sponsors in site.data.sponsors %}
     <div class="col-12 col-md-6 mb-1">
       <div class="sponsors sponsors-summary">
         {% if sponsors.image %}
+        <h2>{{ sponsors.name }} </h2>
         <div class="sponsors-image">
           <img
             alt="{{ sponsors.title }} logo"
@@ -31,22 +32,8 @@ bodyClass: page-sponsors-list
           />
         </div>
         {% endif %}
-        <div class="sponsors-meta">
-          <h2 class="sponsors-name">{{ sponsors.title }}</h2>
-          <p class="sponsors-description">{{ sponsors.jobtitle }}</p>
-          {% if sponsors.linkedinurl %}
-          <a target="_blank" href="{{ sponsors.linkedinurl }}">LinkedIn</a> 
-          {% endif %}
-        </div>
-        <div class="sponsors-content">{{ sponsors.content }}</div>
       </div>
     </div>
     {% endfor %}
   </div>
-  <h2> Other contributors </h2>
-  <ul>
-      {% for person in site.data.other_sponsors %}
-      <li> {{ person.name }} - {{ person.role}} </li>
-      {% endfor %}
-  </ul>
 </div>
