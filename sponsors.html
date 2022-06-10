@@ -8,9 +8,9 @@ bodyClass: page-sponsors-list
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>Permanent and Head Staff</h1>
+        <h1>Sponsors of the OYMC</h1>
         <p>
-          Our head staff help write the problems, review them, and work on various contest logistics.
+          The OYMC is so thankful for each and everyone of our sponsors.
         </p>
       </div>
     </div>
@@ -19,33 +19,33 @@ bodyClass: page-sponsors-list
 
 <div class="container pb-6">
   <div class="row">
-    {% for team in site.team %}
+    {% for sponsors in site.sponsors %}
     <div class="col-12 col-md-6 mb-1">
-      <div class="team team-summary">
-        {% if team.image %}
-        <div class="team-image">
+      <div class="sponsors sponsors-summary">
+        {% if sponsors.image %}
+        <div class="sponsors-image">
           <img
-            alt="{{ team.title }} logo"
+            alt="{{ sponsors.title }} logo"
             class="img-fluid mb-2"
-            src="{{site.baseurl}}{{ team.image }}"
+            src="{{site.baseurl}}{{ sponsors.image }}"
           />
         </div>
         {% endif %}
-        <div class="team-meta">
-          <h2 class="team-name">{{ team.title }}</h2>
-          <p class="team-description">{{ team.jobtitle }}</p>
-          {% if team.linkedinurl %}
-          <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a> 
+        <div class="sponsors-meta">
+          <h2 class="sponsors-name">{{ sponsors.title }}</h2>
+          <p class="sponsors-description">{{ sponsors.jobtitle }}</p>
+          {% if sponsors.linkedinurl %}
+          <a target="_blank" href="{{ sponsors.linkedinurl }}">LinkedIn</a> 
           {% endif %}
         </div>
-        <div class="team-content">{{ team.content }}</div>
+        <div class="sponsors-content">{{ sponsors.content }}</div>
       </div>
     </div>
     {% endfor %}
   </div>
   <h2> Other contributors </h2>
   <ul>
-      {% for person in site.data.other_team %}
+      {% for person in site.data.other_sponsors %}
       <li> {{ person.name }} - {{ person.role}} </li>
       {% endfor %}
   </ul>
