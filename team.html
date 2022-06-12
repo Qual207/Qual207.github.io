@@ -43,10 +43,10 @@ bodyClass: page-team-list
     </div>
     {% endfor %}
   </div>
-  <h2> Other contributors </h2>
-  <ul>
+  <h1> Other contributors </h1>
+  <div class="row">
       {% for person in site.data.other_team %}
-      <li> {{ person.name }} - {{ person.role}} </li>
+      <div class="col"> <strong>{{ person.name }}</strong>&#58; {{ person.role}} </div>
       {% endfor %}
-  </ul>
+  </div>
 </div>
