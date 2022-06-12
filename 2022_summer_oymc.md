@@ -15,9 +15,14 @@ The 2022 OYMC will be held in July, similar to last year. Specific dates and tim
 
 Unlike last year, the 2022 OYMC Summer will consist of one overall individual round for the Middle School division as well as the Elementary Division (with the ES Division being easier than the MS). The test will consist of 15 questions in increasing difficulty order. 
 
-- Elementary School Division: 15 Questions, 60 Minutes, Mathcounts School / Early AMC8 to Late AMC8 / Mid AMC10
+| ES Division | MS Division |
+| ------------------- | ----------------- |
+| 60 Minutes | 60 Minutes |
+| 15 Questions | 15 Questions |
+| Early AMC8 to Mid AMC10 Level| Early AMC10 to Late AIME Level |
+| Date (TBD) | Date (TBD) |
+| 5th and Under | 8th and under |
 
-- Middle School Division: 15 Questions, 60 Minutes, Early AMC10 to Late AIME
 
 During the competition, all students will be emailed both the test and a submission form. The test will also be published on this website and on AoPS. Students are given a 5 minute window for internet delays, loading the test file, submitting, etc. Once time is up, the submission form will be closed and at that point, **any student who has not submitted their answers in time will not be able to submit their answers and will receive a 0**. Therefore it is crucial that students submit a little bit before time is over (thus utilizing the 5 minute window given).
 
