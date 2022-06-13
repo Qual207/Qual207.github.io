@@ -8,12 +8,13 @@ main:
   - name: "Archive"
     url: "/archive/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
   - name: "Sponsors"
     url: "/sponsors/"
+    weight: 5
+  - name: "Contact"
+    url: "/contact/"
     weight: 6
+ 
 
 footer:
   - name: "Home"
