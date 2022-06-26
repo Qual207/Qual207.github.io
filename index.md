@@ -10,4 +10,4 @@ show_call_box: true
 
 # OYMC
 
-The Online Youth Mathematics Competition
+The Online Youth Math Competition
