@@ -24,7 +24,7 @@ Unlike last year, the 2022 OYMC Summer will consist of one overall individual ro
 | 5th and Under | 8th and under |
 
 
-During the competition, all students will be emailed both the test and a submission form. The test will also be published on this website and on AoPS. Students are given a 5 minute window for internet delays, loading the test file, submitting, etc. Once time is up, the submission form will be closed and at that point, **any student who has not submitted their answers in time will not be able to submit their answers and will receive a 0**. Therefore it is crucial that students submit a little bit before time is over (thus utilizing the 5 minute window given).
+During the competition, all students will be emailed both the test and a submission form. The test will also be published on this website and on AoPS. Students are given an additional 5 minute window for internet delays, loading the test file, submitting, etc. Once time is up, the submission form will be closed and at that point, **any student who has not submitted their answers in time will not be able to submit their answers and will receive a 0**. Therefore it is crucial that students submit a little bit before time is over (thus utilizing the 5 minute window given).
 
 Students will be notified of their results shortly after, and they will be emailed out, published on our website, and published on AoPS. Prizes will then follow in the following week. 
 
