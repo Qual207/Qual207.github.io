@@ -19,7 +19,7 @@ Unlike last year, the 2022 OYMC Summer will consist of one overall individual ro
 | ------------------- | ----------------- |
 | 60 Minutes | 60 Minutes |
 | 15 Questions | 15 Questions |
-| Early AMC8 to Mid AMC10 Level| Early AMC10 to Late AIME Level |
+| Early AMC8 to Late AMC10 Level| Early AMC10 to Late AIME Level |
 | Date (TBD) | Date (TBD) |
 | 5th and Under | 8th and under |
 
