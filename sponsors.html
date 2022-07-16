@@ -25,12 +25,14 @@ bodyClass: page-sponsors-list
         {% if sponsors.image %}
         <h2>{{ sponsors.name }} </h2>
         <div class="sponsors-image">
-          <img
-            alt="{{ sponsors.title }} logo"
-            class="img-fluid mb-2"
-            src="{{site.baseurl}}{{ sponsors.image }}"
-            style="max-height:200px;max-width:400px;"
-          />
+          <a href="{{ sponsors.link }}">
+            <img
+              alt="{{ sponsors.title }} logo"
+              class="img-fluid mb-2"
+              src="{{site.baseurl}}{{ sponsors.image }}"
+              style="max-height:200px;max-width:400px;"
+            />
+          <a/>
         </div>
         {% endif %}
       </div>
