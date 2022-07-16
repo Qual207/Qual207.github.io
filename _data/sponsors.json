@@ -1,7 +1,8 @@
 [
   {
     "name": "AOPS",
-    "image": "https://artofproblemsolving.com/assets/images/logos/aops-online.svg"
+    "image": "https://artofproblemsolving.com/assets/images/logos/aops-online.svg",
+    "link": ""
   },
   {
     "name": "Daily Challenge with Po-Shen Loh",
@@ -10,18 +11,22 @@
   },
   {
     "name": "The Beauty Of Math",
-    "image": "/images/sponsors/golden-spiral-staircase1 (2).jpg"
+    "image": "/images/sponsors/golden-spiral-staircase1 (2).jpg",
+    "link": ""
   },
   {
     "name": "MapleSoft",
-    "image": "/images/sponsors/Maplesoft_logo_Cybernet.jpg"
+    "image": "/images/sponsors/Maplesoft_logo_Cybernet.jpg",
+    "link": ""
   },
   {
     "name": "Omega Learn",
-    "image": "/images/sponsors/OmegaLearnLogo.png"
+    "image": "/images/sponsors/OmegaLearnLogo.png",
+    "link": ""
   },
    {
     "name": "Wolfram Alpha",
-    "image": "/images/sponsors/wolfram-language-text-logo-1.png"
+    "image": "/images/sponsors/wolfram-language-text-logo-1.png",
+    "link": ""
   }
 ]
