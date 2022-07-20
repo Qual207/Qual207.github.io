@@ -9,8 +9,7 @@ intro_image_hide_on_mobile: true
 
 # Date and Timing
 
-The 2022 OYMC will be held in July, similar to last year. Specific dates and timing are still being discussed. 
-
+The 2022 OYMC will be held on August 14th at 5:00 PM EST. Students should be ready to check their email 5 minutes beforehand, and will be given a 5 minute window to submit their answers and load the test document.
 # Format of Competition
 
 Unlike last year, the 2022 OYMC Summer will consist of one overall individual round for the Middle School division as well as the Elementary Division (with the ES Division being easier than the MS). The test will consist of 15 questions in increasing difficulty order. 
