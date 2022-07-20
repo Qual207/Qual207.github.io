@@ -11,3 +11,5 @@ show_call_box: true
 # OYMC
 
 The Online Youth Math Competition
+
+Register [here](https://forms.gle/cDFyqnZ4pnLP1Vtt9) For the 2022 OYMC!
