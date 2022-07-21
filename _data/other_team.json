@@ -4,11 +4,15 @@
     "role": "Web Developer"
   },
   {
-    "name": "v4913",
-    "role": "Testsolver"
+    "name": "Pranav Choudhary",
+    "role": "Problem Writer"
   },
   {
     "name": "ezpotd",
+    "role": "Testsolver"
+  },
+  {
+    "name": "v4913",
     "role": "Testsolver"
   },
   {
@@ -22,9 +26,5 @@
   {
     "name": "scrabbler94",
     "role": "Testsolver"
-  },
-  {
-    "name": "OlympusHero",
-    "role": "Testsolver"
-  } 
+  }
 ]
