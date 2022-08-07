@@ -13,6 +13,10 @@ The 2022 OYMC will be held on **August 14th at 5:00 PM EST**. Students should be
 
 Additionally, **The Daily Challenge will be doing a livesolve of the competition on August 21st at 7-8 PM EST**, a week after the competition. Students, parents, and coaches are all welcome to come and see the various explanations to the problems from the contest. The zoom link is [here](https://us06web.zoom.us/meeting/register/tZ0lcu-qpjwvE9CsLkIfMc5liKiin_kV1lrG). 
 
+# Prizes
+
+This year, the OYMC will be offering 4 AoPS coupons along with 2 Daily Challenge Live Module Classes and 2 1 Hour Private Lessons with The Beauty Of Math. Additionally, Desmos is providing a 45 dollar gift code that can be used at their Des-Store which will be offered as a raffle prize. More prizes are still rolling in!
+
 
 # Format of Competition
 
