@@ -15,7 +15,7 @@ Additionally, **The Daily Challenge will be doing a livesolve of the competition
 
 # Prizes
 
-This year, the OYMC will be offering 8 AoPS coupons along with 2 Daily Challenge Live Module Classes and 2 1 Hour Private Lessons with The Beauty Of Math. Additionally, Desmos is providing a 45 dollar gift code that can be used at their Des-Store which will be offered as a raffle prize. More prizes are still rolling in!
+This year, the OYMC will be offering 8 AoPS coupons along with 2 Daily Challenge Live Module Classes and 2 1 Hour Private Lessons with The Beauty Of Math. 30 Copies of the Wolfram Alpha Notebook Edition will also be sent out to top scorers of the competition. Additionally, Desmos is providing a 45 dollar gift code that can be used at their Des-Store which will be offered as a raffle prize. More prizes are still rolling in!
 
 
 # Format of Competition
