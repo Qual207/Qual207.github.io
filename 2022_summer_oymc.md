@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: true
 
 # Timing and Schedule
 
-The 2022 OYMC will be held on **August 14th at 5:00 PM EST**. Students should be ready to check their email 5 minutes beforehand, and will be given a 5 minute window to submit their answers and load the test document. **Students can sign up [here](https://forms.gle/cDFyqnZ4pnLP1Vtt9).**
+The 2022 OYMC will be held on **August 14th from 5:00 PM to 6:05 PM EST**. Students should be ready to check their email 5 minutes beforehand, and will be given a 5 minute window to submit their answers and load the test document along with 60 minutes to solve the problems. **Students can sign up [here](https://forms.gle/cDFyqnZ4pnLP1Vtt9).**
 
 Additionally, **The Daily Challenge will be doing a livesolve of the competition on August 21st at 7-8 PM EST**, a week after the competition. Students, parents, and coaches are all welcome to come and see the various explanations to the problems from the contest. The zoom link is [here](https://us06web.zoom.us/meeting/register/tZ0lcu-qpjwvE9CsLkIfMc5liKiin_kV1lrG). 
 
