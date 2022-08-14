@@ -5,7 +5,7 @@ description: Past Tests and Solutions
 bodyClass: page-about
 ---
 
-Tests and Solutions from previous years. 
+Tests, Solutions, and Leaderboards from previous years are all included in the folder links. 
 
 ## 2021 Summer 
 
