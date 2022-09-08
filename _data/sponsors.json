@@ -1,5 +1,10 @@
 [
   {
+    "name": "Hack+",
+    "image": "/images/sponsors/hackpluslogo-banner.png",
+    "link": "https://hackplus.io/"
+  },
+  {
     "name": "AOPS",
     "image": "https://artofproblemsolving.com/assets/images/logos/aops-online.svg",
     "link": "https://artofproblemsolving.com/"
