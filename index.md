@@ -12,4 +12,4 @@ show_call_box: true
 
 **The Online Youth Math Competition**
 
-Register [here](https://forms.gle/cDFyqnZ4pnLP1Vtt9) for the 2022 OYMC, and join our discord [here](https://discord.gg/tWzJGsARMS)!
+Proudly Partnered with [Hack+](https://hackplus.io/)
