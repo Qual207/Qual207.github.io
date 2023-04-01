@@ -7,6 +7,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
+**The 2022 Summer OYMC has officially concluded. Results, prizes, and problems/solutions have all been posted [here](http://oymcofficial.org/archive/). Thank you to all who participated, we hope to see you compete again next summer!
+
 # Timing and Schedule
 
 The 2022 OYMC will be held on **August 14th from 5:00 PM to 6:05 PM EST**. Students should be ready to check their email 5 minutes beforehand, and will be given a 5 minute window to submit their answers and load the test document along with 60 minutes to solve the problems. **Students can sign up [here](https://forms.gle/cDFyqnZ4pnLP1Vtt9).**
