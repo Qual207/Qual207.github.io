@@ -10,7 +10,7 @@ Tests, Solutions, and Leaderboards from previous years are all included in the f
 ## 2022 OYMC
 
  - [Elementary  School Division](https://drive.google.com/drive/folders/1IvT2IAAhafJbNSSaR4dzCVapEjw2uD5K?usp=sharing) (Solutions in Folder)
- - [Middle School Division](https://drive.google.com/file/d/1sjjHcGh-ltCQhKEUVBpAzOj5Wh-RUdz_/view?usp=sharing) (Solutions in Folder)
+ - [Middle School Division](https://drive.google.com/drive/folders/15KEWMbJNQo2su1yBDI_HfKpwX9xLGyBf?usp=sharing) (Solutions in Folder)
 
 ## 2021 Summer 
 
