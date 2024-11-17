@@ -12,4 +12,6 @@ show_call_box: true
 
 **The Online Youth Math Competition**
 
-Proudly Partnered with [Hack+](https://hackplus.io/)
+*Currently working towards the Summer 2025 OYMC Competition*
+
+Partnered with [Hack+](https://hackplus.io/)
